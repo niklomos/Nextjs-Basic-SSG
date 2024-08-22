@@ -4,7 +4,7 @@ export default function About() {
   return (
     <>
       <div className={`container mt-2 `}>
-        <div className="card ">
+        <div className="card  p-3">
           <div className="d-flex justify-content-center mb-4 mt-3">
             <Image
               src="/nik.jpg"

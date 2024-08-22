@@ -1,0 +1,7 @@
+.card {
+    transition: background-color 0.3s ease;
+}
+
+.card2:hover {
+    background-color: orange;
+}
